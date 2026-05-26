@@ -1,15 +1,10 @@
 services:
   - type: web
     name: edubot-rag-chatbot
-    runtime: python
+    runtime: docker
+    dockerfilePath: ./Dockerfile
     region: oregon
     plan: free
-
-    buildCommand: |
-      pip install -r requirements.txt
-      cd frontend && npm ci && npm run build
-
-    startCommand: uvicorn api:app --host 0.0.0.0 --port $PORT
 
     envVars:
       - key: OPENAI_API_KEY
@@ -23,9 +18,6 @@ services:
 
       - key: COHERE_API_KEY
         sync: false
-
-      - key: PYTHON_VERSION
-        value: 3.11.9
 
       - key: PYTHONIOENCODING
         value: utf-8
