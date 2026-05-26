@@ -1,0 +1,60 @@
+MATHEMATICS – School Study Material
+
+=== NUMBER SYSTEMS ===
+Natural numbers are the counting numbers we use every day: 1, 2, 3, 4, 5, and so on. They do not include zero or negative numbers. Whole numbers include all natural numbers plus zero: 0, 1, 2, 3, 4, 5. Integers include all whole numbers and their negative counterparts: ..., -3, -2, -1, 0, 1, 2, 3, ...
+
+Rational numbers are numbers that can be written as a fraction p/q, where p and q are integers and q is not zero. Examples include 1/2, 3/4, -5/3, and even whole numbers like 4 (which equals 4/1). Irrational numbers cannot be written as a simple fraction. Pi (π ≈ 3.14159...) and the square root of 2 (√2 ≈ 1.41421...) are irrational numbers. Real numbers include both rational and irrational numbers.
+
+=== FRACTIONS AND DECIMALS ===
+A fraction represents a part of a whole. In the fraction 3/4, the number on top (3) is the numerator and the number on bottom (4) is the denominator. This means we have 3 parts out of 4 equal parts.
+
+To add fractions with the same denominator, simply add the numerators: 1/5 + 2/5 = 3/5. To add fractions with different denominators, first find the Least Common Denominator (LCD). For 1/3 + 1/4, the LCD is 12, so we get 4/12 + 3/12 = 7/12.
+
+To multiply fractions, multiply the numerators together and the denominators together: 2/3 × 3/4 = 6/12 = 1/2. To divide fractions, flip the second fraction (find its reciprocal) and then multiply: 2/3 ÷ 4/5 = 2/3 × 5/4 = 10/12 = 5/6.
+
+Decimals are another way to show parts of a whole. The decimal 0.75 is the same as 75/100 or 3/4. To convert a fraction to a decimal, divide the numerator by the denominator: 3 ÷ 4 = 0.75.
+
+=== PERCENTAGES ===
+A percentage is a fraction out of 100. The word "percent" means "per hundred." So 25% means 25 out of every 100, which equals 25/100 or 0.25.
+
+To find a percentage of a number, convert the percentage to a decimal and multiply. For example, 20% of 50 = 0.20 × 50 = 10. To find what percentage one number is of another, divide the first number by the second and multiply by 100. For example, 15 is what percent of 60? Answer: (15 ÷ 60) × 100 = 25%.
+
+Percentage increase = (New Value - Old Value) / Old Value × 100. If a price goes from $40 to $50, the percentage increase = (50 - 40) / 40 × 100 = 25%.
+
+=== BASIC ALGEBRA ===
+Algebra uses letters (variables) to represent unknown numbers. The variable x in the equation x + 5 = 12 stands for an unknown value. To solve for x, subtract 5 from both sides: x = 12 - 5 = 7.
+
+An expression is a combination of numbers, variables, and operations without an equals sign. Examples: 3x + 2, 5y - 7, 2a + 3b. An equation has an equals sign and states that two expressions are equal, like 2x + 3 = 11.
+
+To solve a linear equation, use inverse operations to isolate the variable. For 2x + 3 = 11: subtract 3 from both sides to get 2x = 8, then divide both sides by 2 to get x = 4.
+
+The distributive property states that a(b + c) = ab + ac. For example, 3(x + 4) = 3x + 12. Like terms are terms with the same variable and exponent. You can add like terms: 3x + 5x = 8x, but you cannot add unlike terms like 3x + 5y.
+
+=== GEOMETRY ===
+A point is a location in space with no size. A line is a straight path that extends infinitely in both directions. A ray starts at a point and extends infinitely in one direction. A line segment is a part of a line with two endpoints.
+
+An angle is formed by two rays sharing a common endpoint (vertex). Angles are measured in degrees. A right angle measures exactly 90°. An acute angle measures less than 90°. An obtuse angle measures more than 90° but less than 180°. A straight angle measures exactly 180°.
+
+A triangle is a polygon with three sides and three angles. The sum of all interior angles in a triangle is always 180°. In a right triangle, one angle is 90°. The longest side opposite the right angle is called the hypotenuse. According to the Pythagorean theorem: a² + b² = c², where c is the hypotenuse.
+
+The perimeter of a shape is the total distance around its outside edge. To find the perimeter of a rectangle: P = 2 × (length + width). For a square with side s: P = 4s.
+
+The area of a shape is the amount of surface it covers. Area of a rectangle = length × width. Area of a triangle = (1/2) × base × height. Area of a circle = π × r², where r is the radius.
+
+The volume of a 3D shape is the amount of space it occupies. Volume of a cube = side³. Volume of a rectangular prism = length × width × height. Volume of a cylinder = π × r² × height.
+
+=== STATISTICS AND PROBABILITY ===
+The mean (average) of a data set is found by adding all values and dividing by the count. For the data set {4, 7, 2, 9, 3}, the mean = (4 + 7 + 2 + 9 + 3) ÷ 5 = 25 ÷ 5 = 5.
+
+The median is the middle value when data is arranged in order. For {2, 3, 4, 7, 9}, the median is 4. If there is an even number of values, the median is the average of the two middle values.
+
+The mode is the value that appears most often in a data set. For {3, 5, 5, 7, 9, 5}, the mode is 5 because it appears three times.
+
+The range is the difference between the highest and lowest values: Range = Maximum - Minimum. For {2, 3, 4, 7, 9}, the range = 9 - 2 = 7.
+
+Probability measures how likely an event is to occur. It is expressed as a number between 0 and 1. Probability of an event = Number of favorable outcomes ÷ Total number of outcomes. The probability of rolling a 3 on a fair six-sided die = 1/6.
+
+=== ORDER OF OPERATIONS ===
+When solving a mathematical expression with multiple operations, follow PEMDAS: Parentheses first, then Exponents, then Multiplication and Division (left to right), then Addition and Subtraction (left to right).
+
+For example, 3 + 4 × 2 = 3 + 8 = 11 (not 14, because multiplication comes before addition). Another example: (3 + 4) × 2 = 7 × 2 = 14 (parentheses come first).

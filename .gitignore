@@ -1,0 +1,28 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Environment — never commit secrets
+.env
+
+# Local vector DB (using Pinecone in production)
+chroma_db/
+
+# Ingest log (ephemeral — rebuilt from Pinecone on each deploy)
+ingest_log.json
+
+# Node
+frontend/node_modules/
+
+# Vite build output (Render builds this fresh every deploy)
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db

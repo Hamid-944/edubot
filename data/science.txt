@@ -1,0 +1,63 @@
+SCIENCE – School Study Material
+
+=== CELLS – THE BUILDING BLOCKS OF LIFE ===
+A cell is the smallest unit of life. All living things are made of cells. There are two main types of cells: prokaryotic cells and eukaryotic cells. Prokaryotic cells are simple cells without a nucleus, found in bacteria. Eukaryotic cells are more complex and have a nucleus, found in plants, animals, and fungi.
+
+Every cell has a cell membrane, which is a thin, flexible covering that controls what enters and leaves the cell. The cytoplasm is the jelly-like fluid inside the cell that holds the cell's organelles. The nucleus is the control center of the cell, containing DNA, which carries the genetic instructions for the cell.
+
+Mitochondria are known as the "powerhouse of the cell" because they produce energy (ATP) through a process called cellular respiration. Ribosomes are tiny structures where proteins are made. The endoplasmic reticulum is a network of membranes that helps transport materials within the cell.
+
+Plant cells have some structures that animal cells do not. The cell wall is a rigid outer layer made of cellulose that gives the plant cell its shape. Chloroplasts are organelles found only in plant cells that capture sunlight to make food through photosynthesis. A large central vacuole stores water and helps maintain the shape of the plant cell.
+
+=== PHOTOSYNTHESIS ===
+Photosynthesis is the process by which plants, algae, and some bacteria make their own food using sunlight. It takes place mainly in the chloroplasts of plant cells, which contain a green pigment called chlorophyll.
+
+The equation for photosynthesis is: 6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂. This means that six molecules of carbon dioxide and six molecules of water, using light energy, produce one molecule of glucose (sugar) and six molecules of oxygen.
+
+Plants take in carbon dioxide through tiny pores in their leaves called stomata. They absorb water through their roots, which travels up through the stem. Sunlight is absorbed by chlorophyll in the chloroplasts. The glucose produced is used by the plant for energy, growth, and repair. The oxygen produced is released into the air, which is why plants are essential for life on Earth.
+
+=== CELLULAR RESPIRATION ===
+Cellular respiration is the process by which cells break down glucose to release energy. It occurs in the mitochondria. The equation is: C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + energy (ATP). Glucose and oxygen are used to produce carbon dioxide, water, and energy.
+
+There are two types of respiration: aerobic and anaerobic. Aerobic respiration requires oxygen and produces a large amount of energy. Anaerobic respiration occurs without oxygen and produces less energy. Yeast undergoes anaerobic respiration to produce carbon dioxide and alcohol in a process called fermentation. Human muscles also temporarily use anaerobic respiration during intense exercise, which produces lactic acid and causes muscle fatigue.
+
+=== THE SOLAR SYSTEM ===
+The solar system consists of the Sun and all the objects that orbit it, including planets, moons, asteroids, and comets. The Sun is a star at the center of our solar system. It is mostly made of hydrogen and helium and generates energy through nuclear fusion.
+
+There are eight planets in the solar system, in order from the Sun: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune. Mercury is the smallest planet and closest to the Sun. Venus is the hottest planet due to its thick carbon dioxide atmosphere. Earth is the only known planet with life; it has liquid water and a protective atmosphere. Mars is called the Red Planet because of its reddish iron oxide surface.
+
+Jupiter is the largest planet, with a famous storm called the Great Red Spot. Saturn is known for its beautiful rings made of ice and rock. Uranus rotates on its side and has a blue-green color due to methane in its atmosphere. Neptune is the farthest planet from the Sun and has the strongest winds in the solar system.
+
+Moons are natural satellites that orbit planets. Earth has one moon. Jupiter has over 90 known moons. A light year is the distance light travels in one year (about 9.46 trillion kilometers), used to measure vast distances in space.
+
+=== FORCES AND MOTION ===
+A force is a push or pull acting on an object. Forces can cause objects to start moving, stop moving, speed up, slow down, or change direction. Force is measured in Newtons (N).
+
+Newton's First Law (Law of Inertia): An object at rest stays at rest, and an object in motion stays in motion at the same speed and in the same direction, unless acted upon by an unbalanced force. This means objects resist changes to their motion.
+
+Newton's Second Law: Force = Mass × Acceleration (F = ma). The acceleration of an object depends on the net force acting on it and its mass. A larger force produces greater acceleration; a larger mass requires more force to accelerate.
+
+Newton's Third Law: For every action, there is an equal and opposite reaction. When you push against a wall, the wall pushes back on you with equal force.
+
+Gravity is the force of attraction between any two objects with mass. Earth's gravity pulls objects toward its center, giving them weight. Weight = mass × gravitational acceleration (W = mg). On Earth, g ≈ 9.8 m/s². Friction is a force that opposes motion between surfaces in contact. Air resistance is the friction force exerted by air on a moving object.
+
+=== ELECTRICITY ===
+Electricity is the flow of electric charges (usually electrons) through a conductor. Electric current is the rate of flow of charge, measured in Amperes (A). Voltage (measured in Volts, V) is the electrical pressure that pushes charges through a circuit. Resistance (measured in Ohms, Ω) opposes the flow of current.
+
+Ohm's Law states: Voltage = Current × Resistance (V = IR). A circuit is a closed path through which electricity flows. In a series circuit, components are connected one after another in a single loop. If one component breaks, the entire circuit stops working. In a parallel circuit, components are connected in separate branches. If one component breaks, the others continue to work.
+
+Conductors are materials that allow electricity to flow easily. Metals like copper, silver, and gold are good conductors. Insulators are materials that do not allow electricity to flow. Rubber, plastic, wood, and glass are good insulators. Semiconductors, like silicon, conduct electricity under certain conditions and are used in computer chips.
+
+=== THE WATER CYCLE ===
+The water cycle, also called the hydrological cycle, describes the continuous movement of water on, above, and below Earth's surface. It has four main stages: evaporation, condensation, precipitation, and collection.
+
+Evaporation occurs when the Sun heats water in oceans, lakes, and rivers, turning liquid water into water vapor, which rises into the atmosphere. Transpiration is the release of water vapor from plants, also contributing to the water cycle.
+
+Condensation occurs when water vapor cools and turns back into tiny water droplets, forming clouds and fog. When water droplets in clouds combine and become heavy enough, they fall as precipitation. Precipitation can be rain, snow, sleet, or hail, depending on the temperature.
+
+Water that falls on land collects in rivers, lakes, and oceans (surface runoff), or soaks into the ground (infiltration) to become groundwater. This water is then evaporated again, continuing the cycle. The water cycle is essential because it distributes fresh water around the planet and regulates climate.
+
+=== ECOSYSTEMS AND FOOD CHAINS ===
+An ecosystem is a community of living organisms interacting with each other and their physical environment. Producers (plants and algae) make their own food through photosynthesis. Consumers eat other organisms for energy. Primary consumers (herbivores) eat plants. Secondary consumers (carnivores or omnivores) eat primary consumers. Decomposers (bacteria and fungi) break down dead organisms, returning nutrients to the soil.
+
+A food chain shows the flow of energy from one organism to another. For example: grass → grasshopper → frog → snake → eagle. A food web shows the complex interconnections of many food chains in an ecosystem. Energy flows from the Sun into producers, then through different levels of consumers. At each level, about 90% of energy is lost as heat, which is why food chains rarely have more than five levels.

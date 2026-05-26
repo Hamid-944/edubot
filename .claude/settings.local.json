@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(d:\\\\FDE\\\\11-5-26\\\\venv\\\\Scripts\\\\python.exe -m pip list 2>&1)",
+      "PowerShell(New-Item -ItemType Directory -Force -Path \"d:\\\\FDE\\\\11-5-26\\\\data\")",
+      "PowerShell(cd d:\\\\FDE\\\\11-5-26; $env:PYTHONIOENCODING='utf-8'; .\\\\venv\\\\Scripts\\\\python.exe test_pipeline.py 2>&1)",
+      "PowerShell(New-Item -ItemType Directory -Force -Path \"d:\\\\FDE\\\\11-5-26\\\\frontend\\\\src\\\\components\")"
+    ]
+  }
+}
